@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rinfella
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on PHP laravel framework,Bootstrap, VueJs
 - 📫 How to reach me rinfellapachuau93@gmail.com
 
 <!---
