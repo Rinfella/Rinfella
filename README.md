@@ -1,3 +1,5 @@
+![banner-github](https://github.com/Rinfella/Rinfella/assets/61748587/4fb53e74-d2e7-4ec0-9913-f5517fa486bb)
+
 - 👋 Hi, I’m @Rinfella
 - 👀 I’m interested in Web Development and Linux System Administration
 - 🌱 I’m currently learning System Administration and DevOps
