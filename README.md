@@ -1,11 +1,9 @@
-
+#coment
 
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
 <h3 align="center">System Administrator for Lailen Consulting Pvt. Ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinfella&theme=onestar&column=4" alt="rinfella" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,6 +14,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=ffc0cb&icon_color=ffffa7" alt="rinfella" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinfella&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=35%2CFFFFFF00%2C57575700&currStreakLabel=1EEB00&sideNums=EB5454&currStreakNum=16EB00&sideLabels=EBE873&fire=EB0000)](https://git.io/streak-stats" alt="rinfella" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinfella&theme=onestar&column=4" alt="rinfella" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
