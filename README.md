@@ -2,7 +2,7 @@
 ![wallhaven-jxyopy](https://github.com/Rinfella/Rinfella/assets/61748587/c9d75d68-b2a0-4503-9187-ebc4e44c9302)
 
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
-<h3 align="center">System Administrator for Lailen Consulting Pvt. Ltd</h3>
+<h3 align="center">System Administrator for [Lailen Consulting Pvt. Ltd](https://lailen.com)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
 
