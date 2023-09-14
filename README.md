@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
 <div class="d-inline-flex">
-<h3 align="center">System Administrator for <a href="https://lailen.com/">Lailen Consulting Pvt. Ltd</a></h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
+<h3>System Administrator for <a href="https://lailen.com/">Lailen Consulting Pvt. Ltd</a></h3>
+<p> <img src="https://komarev.com/ghpvc/?username=rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
 </div>
 
 <h3 align="center">Tech stacks:</h3>
