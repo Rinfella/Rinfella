@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lalrinfela-pachuau-6a3017202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalrinfela pachuau" height="30" width="40" /></a>
 <a href="https://instagram.com/rinfella_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinfella_" height="30" width="40" /></a>
-<a href="mailto:rinfellapachuau93@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="rinfella_" height="30" width="40" /></a>
+<a href="mailto:rinfellapachuau93@gmail.com" target="blank"><img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail.svg" alt="rinfella_" height="30" width="40" /></a>
 
 </p>
 
