@@ -5,8 +5,7 @@
 - 📫 How to reach me rinfellapachuau93@gmail.com
 
 
-[![Rinfella's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinfella)](https://github.com/Rinfella/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=radical)
 
 <!---
 Rinfella/Rinfella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
