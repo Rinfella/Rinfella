@@ -1,4 +1,4 @@
-![banner-github](https://github.com/Rinfella/Rinfella/assets/61748587/4fb53e74-d2e7-4ec0-9913-f5517fa486bb)
+
 
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
 <h3 align="center">System Administrator for Lailen Consulting Pvt. Ltd</h3>
@@ -28,10 +28,6 @@
 
 
 
-![Rinfela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=ffc0cb&icon_color=ffffa7)
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rinfella&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=35%2CFFFFFF00%2C57575700&currStreakLabel=1EEB00&sideNums=EB5454&currStreakNum=16EB00&sideLabels=EBE873&fire=EB0000)](https://git.io/streak-stats)
 
 <!---
 Rinfella/Rinfella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
