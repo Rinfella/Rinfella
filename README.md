@@ -1,13 +1,9 @@
-
 ![wallhaven-jxyopy](https://github.com/Rinfella/Rinfella/assets/61748587/c9d75d68-b2a0-4503-9187-ebc4e44c9302)
 
+
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
-<div class="d-inline-flex">
-<h3>System Administrator for <a href="https://lailen.com/">Lailen Consulting Pvt. Ltd</a></h3>
-</div>
-<div class="d-inline-flex">
-<p><img src="https://komarev.com/ghpvc/?username=rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
-</div>
+<h3 align="center">System Administrator for <a href="https://lailen.com/">Lailen Consulting Pvt. Ltd</a></h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
 
 
 <h3 align="center">Tech stacks:</h3>
@@ -15,7 +11,7 @@
 
 <hr/>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&title_color=ffc0cb&icon_color=ffffa7" alt="rinfella" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&title_color=ffc0cb&icon_color=ffffa7" alt="rinfella"/></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=ffc0cb&icon_color=ffffa7" alt="rinfella" /></p>
 
