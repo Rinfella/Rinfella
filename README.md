@@ -10,18 +10,18 @@
 <hr/>
 
 <div align="center" justify="center">
-  <p><img align="right" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&layout=compact&title_color=910063&icon_color=ffffa7" alt="rinfella"/></p>
+  <p><img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&layout=compact&title_color=910063&icon_color=ffffa7" alt="rinfella"/></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rinfella&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=35%2CFFFFFF00%2C57575700&currStreakLabel=1EEB00&sideNums=EB5454&currStreakNum=16EB00&sideLabels=EBE873&fire=FF2400")](https://git.io/streak-stats" alt="rinfella" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinfella&theme=onestar&column=4" alt="rinfella" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinfella&theme=onestar&column=4" alt="rinfella" /></a> </p>
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <h2 align="center" justify="between">
 <a href="https://instagram.com/rinfella_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinfella_" height="30" width="40" /></a>
 <a href="mailto:rinfellapachuau93@gmail.com" target="blank" style="color:red; decorate-text:none;">Gmail</a>
