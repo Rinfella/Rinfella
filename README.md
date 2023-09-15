@@ -9,7 +9,7 @@
 
 <hr/>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella"/></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella" /></p>
 
