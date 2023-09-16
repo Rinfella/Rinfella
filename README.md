@@ -17,7 +17,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Rinfella&theme=transparent&date_format=j%20M%5B%20Y%5D&currStreakLabel=59EAEB&fire=EB0000&sideLabels=eb34e1&currStreakNum=EB0000&sideNums=3471eb&ring=EB5D15" alt="rinfella-streak"/></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinfella&theme=onestar&column=4" alt="rinfella" /></a> </p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=rinfella&no-bg=true&column=4" alt="rinfella" /></a> </p>
 
 
 
