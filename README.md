@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
-<br/>
 <h3 align="center">System Administrator for <a href="https://lailen.com/">Lailen Consulting Pvt. Ltd</a></h3>
 <br/>
 <h3 align="center">Tech stacks:</h3>
