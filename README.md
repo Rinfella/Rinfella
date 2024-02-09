@@ -43,7 +43,7 @@
 <a href="https://instagram.com/rinfella_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinfella_" height="30" width="40" /></a>
 <a href="mailto:rinfellapachuau93@gmail.com" target="blank" style="color:red; decorate-text:none;">Gmail</a>
 <a href="https://linkedin.com/in/lalrinfela-pachuau-6a3017202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalrinfela pachuau" height="30" width="40" /></a>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
 </h2>
 
 </div>
