@@ -7,6 +7,7 @@
 </div>
 
 <h3 align="center">System Administrator for <a href="https://lailen.com/">Lailen Consulting Pvt. Ltd</a></h3>
+<h4><a href="https://lazara.hashnode.dev"> My Hashnode Blog</a></h4>
 <br/>
 <h3 align="center">Tech stacks:</h3>
 <br/>
