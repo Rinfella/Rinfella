@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
 <div align="center">
-  <a href="https://app.daily.dev/rynn"><img src="https://api.daily.dev/devcards/v2/sFJR2TeR74dl9t4SR9ORw.png?type=wide&r=a4j" width="652" alt="Rynn_'s Dev Card"/></a>
+<a href="https://app.daily.dev/rynn"><img src="https://api.daily.dev/devcards/v2/sFJR2TeR74dl9t4SR9ORw.png?type=default&r=pbs" width="356" alt="Rynn_'s Dev Card"/></a>
 </div>
 
 <h3 align="center">System Administrator for <a href="https://lailen.com/">Lailen Consulting Pvt. Ltd</a></h3>
