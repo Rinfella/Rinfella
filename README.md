@@ -28,16 +28,13 @@
 
 <p><img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&layout=compact&title_color=910063&icon_color=ffffa7" alt="rinfella"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella" /></p>
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=rinfella&no-bg=true&column=4" alt="rinfella" /></a> </p>
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella" /></p>gmai
 
 
 <h3 align="center">Connect with me:</h3>
 <h2 align="center" justify="between">
 <a href="https://instagram.com/rinfella_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinfella_" height="30" width="40" /></a>
-<a href="mailto:rinfellapachuau93@gmail.com" target="blank" style="color:red; decorate-text:none;">Gmail</a>
+<a href="mailto:rinfellapachuau93@gmail.com" target="blank" style="color:red; decorate-text:none;">![image](https://github.com/user-attachments/assets/8a662c06-49e7-4270-956f-c93b28efe7cc)</a>
 <a href="https://linkedin.com/in/lalrinfela-pachuau-6a3017202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalrinfela pachuau" height="30" width="40" /></a>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
 </h2>
