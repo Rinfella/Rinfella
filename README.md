@@ -28,7 +28,7 @@
 
 <p><img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&layout=compact&title_color=910063&icon_color=ffffa7" alt="rinfella"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella" /></p>gmai
+<p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
