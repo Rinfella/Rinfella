@@ -28,9 +28,6 @@
 
 <p><img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinfella&show_icons=true&locale=en&theme=transparent&layout=compact&title_color=910063&icon_color=ffffa7" alt="rinfella"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Rinfella&show_icons=true&theme=transparent&title_color=910063&icon_color=ffffa7" alt="rinfella" /></p>
-
-
 <h3 align="center">Connect with me:</h3>
 <h2 align="center" justify="between">
 <a href="https://instagram.com/rinfella_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinfella_" height="30" width="40" /></a>
