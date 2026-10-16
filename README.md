@@ -4,6 +4,7 @@
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
 <div align="center">
 <a href="https://daily.dev/rynn"><img src="https://api.daily.dev/devcards/v2/sFJR2TeR74dl9t4SR9ORw.png?type=wide&r=l7y" width="652" alt="Rynn_'s Dev Card"/></a>
+[![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)
 </div>
 
 <h4 align="center">System Administrator for <a href="https://lailen.com/">Lailen Consulting</a></h4>
@@ -33,8 +34,6 @@
 <a href="https://instagram.com/rinfella_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinfella_" height="30" width="40" /></a>
 <a href="mailto:rinfellapachuau93@gmail.com" target="blank" style="color:red; decorate-text:none;"><img align="center" src="https://raw.githubusercontent.com/gist/PranoyBu/d3a635ca00fb890856ad2b12a2f92a0a/raw/d78a313d7884ad3525001decf96143e9ecc6bd50/mail.svg" alt="rinfela pachuau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalrinfela-pachuau-6a3017202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalrinfela pachuau" height="30" width="40" /></a>
-  
-<p align="left">[![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)</p>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
 </h2>
