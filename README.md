@@ -6,7 +6,7 @@
 <a href="https://daily.dev/rynn"><img src="https://api.daily.dev/devcards/v2/sFJR2TeR74dl9t4SR9ORw.png?type=wide&r=l7y" width="652" alt="Rynn_'s Dev Card"/></a>
 
   
-  ![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)
+  ![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)
 
 
 </div>
