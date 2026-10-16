@@ -4,9 +4,16 @@
 <h1 align="center">Hi, I'm Lalrinfela Pachuau</h1>
 <div align="center">
 <a href="https://daily.dev/rynn"><img src="https://api.daily.dev/devcards/v2/sFJR2TeR74dl9t4SR9ORw.png?type=wide&r=l7y" width="652" alt="Rynn_'s Dev Card"/></a>
-![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)
+
+  
+  ![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)
+
+
 </div>
+
+
 [![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)
+
 
 <h4 align="center">System Administrator for <a href="https://lailen.com/">Lailen Consulting</a></h4>
 <h5 align="center"><a href="https://lazara.hashnode.dev"> My Hashnode Blog</a></h5>
