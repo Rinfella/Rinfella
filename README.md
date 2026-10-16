@@ -34,7 +34,8 @@
 <a href="mailto:rinfellapachuau93@gmail.com" target="blank" style="color:red; decorate-text:none;"><img align="center" src="https://raw.githubusercontent.com/gist/PranoyBu/d3a635ca00fb890856ad2b12a2f92a0a/raw/d78a313d7884ad3525001decf96143e9ecc6bd50/mail.svg" alt="rinfela pachuau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalrinfela-pachuau-6a3017202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalrinfela pachuau" height="30" width="40" /></a>
   
-[![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)
+<p align="left">[![daily-devcard](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml/badge.svg?branch=main)](https://github.com/Rinfella/Rinfella/actions/workflows/devcard.yml)</p>
+
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Rinfella&label=Profile%20views&color=0e75b6&style=flat" alt="rinfella" /> </p>
 </h2>
 
